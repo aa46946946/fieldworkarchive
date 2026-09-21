@@ -7,7 +7,7 @@ permalink: /weeks/week-02/
 
 # 證據如何成立？
 
-> ({{ '/assets/images/w01-Trace.jpg' |relative_url }})
+>![證據如何成立](/assets/images/w01-Trace.jpg)
 
 ## TRACE｜痕跡
 
