@@ -7,7 +7,7 @@ permalink: /weeks/week-02/
 
 # 證據如何成立？
 
-> 請保留具體的現場、材料、語句或身體感受。
+> ({{ '/assets/images/w01-Trace.jpg' |relative_url }})
 
 ## TRACE｜痕跡
 
