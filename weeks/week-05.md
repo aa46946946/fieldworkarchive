@@ -10,8 +10,8 @@ permalink: /weeks/week-05/
 > 蝶豆花的顏色染到手指頭上，讓我思考，如果這時候我碰到酸或鹼，我的手指頭是不是也能算一種酸鹼感測器。
 
 ## TRACE｜痕跡
-![w0501]({{ '/assets/images/w0501.jpg' |relative_url }}) 
-![w0502]({{ '/assets/images/w0502.png' |relative_url }})
+![w0501]({{ '/assets/images/W0501.jpg' |relative_url }}) 
+![w0502]({{ '/assets/images/W0502.png' |relative_url }})
 
 一條一條編織好的繩結，放在擦手紙上準備晾乾。
 像各種奇形怪狀的繩結，擺在擦手紙上看起來很像被捕獲的外星生物。
