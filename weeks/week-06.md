@@ -14,10 +14,10 @@ permalink: /weeks/week-06/
 
 康普茶的樣子，以前常常聽到康普茶但沒有特別留意，他摸起來比我想像中的還要滑嫩。
 
-![w0502]({{ '/assets/images/W0602.png' |relative_url }})
+![w0502]({{ '/assets/images/W0602.jpg' |relative_url }})
 我們這組負責了以擬人化的角度去形容酸種和康普茶，我們討論出來的結果是康普茶感覺是小資女孩，而酸種是酒醉大叔。
 
-![w0502]({{ '/assets/images/W0603.png' |relative_url }})
+![w0502]({{ '/assets/images/W0603.jpg' |relative_url }})
 準備養酸種的瓶罐，以我們第二組的擬人化形容的話，就是一個一個酒醉大叔未來要住的地下室。
 
 ## FRICTION｜摩擦
